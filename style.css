@@ -89,9 +89,22 @@
     font-weight: 700;
 }
 
-.col {
+.card {
     border: none;
     background: #FFFFFF;
     box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
     border-radius: 18px;
+}
+
+.name-title {
+    color: #413960;
+}
+
+.para-title {
+    color: dimgray;
+    font-weight: 200;
+}
+
+.dec {
+    margin-top: 20px;
 }
