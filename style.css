@@ -26,7 +26,6 @@
 /* Rectangle 2 */
 
 .board {
-    position: absolute;
     width: 270px;
     height: 270px;
     background: #ffffff;
@@ -34,22 +33,22 @@
 }
 
 .icon {
-    position: absolute;
     width: 70px;
     height: 85px;
-    margin: 6rem;
+    margin: 5rem;
     margin-top: 4rem;
+    margin-bottom: 2rem;
 }
 
 .txt-icon {
     /* 1500+ Topic */
-    position: absolute;
     width: 138px;
     height: 36px;
-    left: 50px;
-    top: 180px;
+    left: 20px;
+    margin: 0;
+    text-align: center;
     font-weight: 5px;
-    line-height: 36px;
+    line-height: 20px;
     /* identical to box height */
     color: #413960;
 }
@@ -59,10 +58,8 @@
 }
 
 .board1 {
-    position: absolute;
     width: 270px;
     height: 270px;
-    left: 35vw;
     background: #ffffff;
     border-radius: 10px;
     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.157);
@@ -70,7 +67,6 @@
 }
 
 .board2 {
-    position: absolute;
     width: 270px;
     height: 270px;
     left: 55vw;
@@ -79,10 +75,9 @@
 }
 
 .board3 {
-    position: absolute;
     width: 270px;
     height: 270px;
-    left: 72vw;
+    left: 70vw;
     background: #ffffff;
     border-radius: 10px;
 }
