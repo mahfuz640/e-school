@@ -124,3 +124,16 @@
     padding-top: 10%;
     padding-bottom: 10%;
 }
+
+.bg-last {
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.line {
+    font-weight: 200;
+}
+
+footer {
+    text-align: center;
+}
