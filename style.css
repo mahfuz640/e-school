@@ -21,3 +21,21 @@
     border: none;
     border-radius: 40px;
 }
+
+
+/* Rectangle 2 */
+
+.board {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    background: #ffffff;
+    border-radius: 10px;
+}
+
+.icon {
+    position: absolute;
+    width: 66px;
+    height: 85px;
+    margin: 6rem;
+}
