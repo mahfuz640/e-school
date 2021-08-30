@@ -4,6 +4,7 @@
 
 .small {
     color: orangered;
+    font-weight: 300;
 }
 
 .green {
@@ -19,7 +20,8 @@
 
 .buton {
     border: none;
-    border-radius: 40px;
+    border-radius: 25px;
+    padding: 12px 36px;
 }
 
 
@@ -84,4 +86,12 @@
 
 .online {
     color: #413960;
+    font-weight: 700;
+}
+
+.col {
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
 }
